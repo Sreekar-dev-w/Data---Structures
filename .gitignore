@@ -1,0 +1,8 @@
+*.class
+*.o
+*.exe
+*.out
+.env
+.idea/
+.vscode/
+build/
